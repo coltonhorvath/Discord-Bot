@@ -25,4 +25,4 @@ client.on('message', message => {
     }
 });
 
-client.login('MTQ2NzE0MTk5ODg2NjU5NTg0.C5OnTA.q956z4Lp4yZFDz6OBvVxm3fo5LU');
+client.login('INSERT ID HERE');
